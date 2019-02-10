@@ -7,7 +7,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Prerequisite
 NodeJS ^6.0
+
 NPM ^5.6.0
+
 Angulat Cli ^6.1.0
 
 ## Development Server
