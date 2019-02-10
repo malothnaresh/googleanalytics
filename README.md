@@ -6,8 +6,8 @@ You could check which events users are making most on the product and make decis
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Prerequisite
-  NodeJS ^6.0\
-  NPM ^5.6.0\
+  NodeJS ^6.0 <br />
+  NPM ^5.6.0 <br />
   Angulat Cli ^6.1.0
 
 ## Development Server
