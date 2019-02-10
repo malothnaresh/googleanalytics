@@ -1,5 +1,5 @@
 ## Google Analytics
-This project is useful to track Page navigations, Events using Google Analytics API.
+This is Angular 2 project, useful to track Page navigations, Events using Google Analytics API.
 Google Analytics gives us feature to track user's interaction with our product and make decisions accordingly.
 You could check which events users are making most on the product and make decisions accordingly.
 
